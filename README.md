@@ -1,2 +1,3 @@
 # STA-663-Final-Project-Submission
-The final project for STA 663_Shijia Bian
+
+This is a clean version of the final submisison. This folder is also included in <https://github.com/shijbian/STA-663-Final-Project> that is the link I originally give to the professor.
